@@ -1,2 +1,0 @@
-# TDE1
-CODIGO TDE1
